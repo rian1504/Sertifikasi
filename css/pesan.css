@@ -1,0 +1,18 @@
+form{
+    overflow: hidden;
+}
+
+label{
+    float: inline-start;
+    padding-right: 5px;
+    width: 250px;
+    margin-left: 20px;
+}
+
+input{
+    float: inline-end;
+    width: 600px;
+}
+button{
+    margin-left: 48%;
+}
